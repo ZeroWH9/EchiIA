@@ -3,7 +3,6 @@ import asyncio
 import segredo
 import random
 
-
 #from sklearn.svm import LinearSVC
 #modelo = LinearSVC
 
